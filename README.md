@@ -12,6 +12,9 @@ I want to collect here useful scripts for editing PDFs in Colab.
 ### Merge PDFs  
 Merges several PDFs into one in an alphabetical order.  
 
+### Rotate PDF
+Rotates pages in a PDF file in a chosen direction.
+
 ### Pdf to Spreads  
 Converts a PDF file with one page per spread (optimized for printing) into a PDF file with two pages per spread (optimized for reading on a widescreen). 
 
