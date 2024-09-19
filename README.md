@@ -19,7 +19,7 @@ Merges several PDFs into one PDF file (input files are sorted in an alphabetical
 (Many PDFs -> 1 PDF)  
 
 ### Rotate PDF
-Rotates pages in a PDF file in a chosen direction.  
+Rotates selected pages in a PDF file in a chosen direction.  
 (1 PDF -> 1 PDF)  
 
 ### Split PDFs  
@@ -31,4 +31,4 @@ Converts a PDF file with one page per spread (optimized for printing) into a PDF
 
 ## How to use
 
-Simply open it in Google Colab, create a copy, and follow instructions in the notebook. 
+Open in Google Colab, create a copy, and follow instructions in the notebook. 
