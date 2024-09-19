@@ -18,24 +18,24 @@ I currently explore using Google Colab for this:
 </p>  
 I want to collect here useful scripts for editing PDFs in Colab.
 
-### Copy PDFs  
+### [Copy PDFs](https://github.com/olga-terekhova/pdf-utilities/blob/main/CopyPDF.ipynb)  
 Copies a PDF file into a new PDF file according to a user-defined list of selected pages.  
 May be used to extract, drop, repeat, reorder pages.   
 (1 PDF -> 1 PDF)  
 
-### Merge PDFs  
+### [Merge PDFs](https://github.com/olga-terekhova/pdf-utilities/blob/main/MergePDFs.ipynb)  
 Merges several PDFs into one PDF file (input files are sorted in an alphabetical order for merging).  
 (Many PDFs -> 1 PDF)  
 
-### Rotate PDF
+### [Rotate PDF](https://github.com/olga-terekhova/pdf-utilities/blob/main/RotatePDF.ipynb)
 Rotates selected pages in a PDF file in a chosen direction.  
 (1 PDF -> 1 PDF)  
 
-### Split PDFs  
+### [Split PDFs](https://github.com/olga-terekhova/pdf-utilities/blob/main/SplitPDF.ipynb)  
 Splits a PDF file into several output PDF files.  
 (1 PDF -> Many PDFs)  
 
-### Pdf to Spreads  
+### [Pdf to Spreads](https://github.com/olga-terekhova/pdf-utilities/blob/main/Pdf_to_Spreads.ipynb)  
 Converts a PDF file with one page per spread (optimized for printing) into a PDF file with two pages per spread (optimized for reading on a widescreen). 
 
 ## How to use
