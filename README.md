@@ -35,6 +35,10 @@ Rotates selected pages in a PDF file in a chosen direction.
 Splits a PDF file into several output PDF files.  
 (1 PDF -> Many PDFs)  
 
+### [Generate PDF Thumbnails](https://github.com/olga-terekhova/pdf-utilities/blob/main/Generate_PDF_thumbnails.ipynb)
+Generates a new PDF with a grid of thumbnails for each page of the input PDF.  
+(1 PDF -> 1 PDF)
+
 ### [Pdf to Spreads](https://github.com/olga-terekhova/pdf-utilities/blob/main/Pdf_to_Spreads.ipynb)  
 Converts a PDF file with one page per spread (optimized for printing) into a PDF file with two pages per spread (optimized for reading on a widescreen). 
 
