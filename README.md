@@ -23,6 +23,10 @@ Copies a PDF file into a new PDF file according to a user-defined list of select
 May be used to extract, drop, repeat, reorder pages.   
 (1 PDF -> 1 PDF)  
 
+### [Crop and scale a PDF](https://github.com/olga-terekhova/pdf-utilities/blob/main/Crop_Scale_PDF.ipynb)
+Crops and scales a PDF file.  
+(1 PDF -> 1 PDF)  
+
 ### [Merge PDFs](https://github.com/olga-terekhova/pdf-utilities/blob/main/MergePDFs.ipynb)  
 Merges several PDFs into one PDF file (input files are sorted in an alphabetical order for merging).  
 (Many PDFs -> 1 PDF)  
