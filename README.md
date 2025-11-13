@@ -35,6 +35,10 @@ Merges several PDFs into one PDF file (input files are sorted in an alphabetical
 Rotates selected pages in a PDF file in a chosen direction.  
 (1 PDF -> 1 PDF)  
 
+### [Shift PDF](https://github.com/olga-terekhova/pdf-utilities/blob/main/ShiftPDF.ipynb)
+Shifts the content of pages in a PDF file according to horizontal and vertical offset given by the user.  
+(1 PDF -> 1 PDF)  
+
 ### [Split PDFs](https://github.com/olga-terekhova/pdf-utilities/blob/main/SplitPDF.ipynb)  
 Splits a PDF file into several output PDF files.  
 (1 PDF -> Many PDFs)  
