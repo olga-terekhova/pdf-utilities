@@ -13,43 +13,43 @@ I currently explore using Google Colab for this:
 - There's runtime with enough RAM and disk storage  
 - I can share the notebook so that others could easily use it too  
 - There's a nice interface for input parameters  
-<p align="center">
-  <img src="docs/ColabParameters.png" width="400">
+<p align="center">  
+  <img src="docs/ColabParameters.png" width="400">  
 </p>  
-I want to collect here useful scripts for editing PDFs in Colab.
+I want to collect here useful scripts for editing PDFs in Colab.  
 
-### [Copy PDFs](https://github.com/olga-terekhova/pdf-utilities/blob/main/CopyPDF.ipynb)  
+### [Copy PDFs](https://github.com/olga-terekhova/pdf-utilities/blob/main/notebooks/CopyPDF.ipynb)  
 Copies a PDF file into a new PDF file according to a user-defined list of selected pages.  
 May be used to extract, drop, repeat, reorder pages.   
 (1 PDF -> 1 PDF)  
 
-### [Crop and scale a PDF](https://github.com/olga-terekhova/pdf-utilities/blob/main/Crop_Scale_PDF.ipynb)
+### [Crop and scale a PDF](https://github.com/olga-terekhova/pdf-utilities/blob/main/notebooks/CropScalePDF.ipynb)
 Crops and scales a PDF file.  
 (1 PDF -> 1 PDF)  
 
-### [Merge PDFs](https://github.com/olga-terekhova/pdf-utilities/blob/main/MergePDFs.ipynb)  
+### [Merge PDFs](https://github.com/olga-terekhova/pdf-utilities/blob/main/notebooks/MergePDFs.ipynb)  
 Merges several PDFs into one PDF file (input files are sorted in an alphabetical order for merging).  
 (Many PDFs -> 1 PDF)  
 
-### [Rotate PDF](https://github.com/olga-terekhova/pdf-utilities/blob/main/RotatePDF.ipynb)
+### [Rotate PDF](https://github.com/olga-terekhova/pdf-utilities/blob/main/notebooks/RotatePDF.ipynb)
 Rotates selected pages in a PDF file in a chosen direction.  
 (1 PDF -> 1 PDF)  
 
-### [Shift PDF](https://github.com/olga-terekhova/pdf-utilities/blob/main/ShiftPDF.ipynb)
+### [Shift PDF](https://github.com/olga-terekhova/pdf-utilities/blob/main/notebooks/ShiftPDF.ipynb)
 Shifts the content of pages in a PDF file according to horizontal and vertical offset given by the user.  
 (1 PDF -> 1 PDF)  
 
-### [Split PDFs](https://github.com/olga-terekhova/pdf-utilities/blob/main/SplitPDF.ipynb)  
+### [Split PDFs](https://github.com/olga-terekhova/pdf-utilities/blob/main/notebooks/SplitPDF.ipynb)  
 Splits a PDF file into several output PDF files.  
 (1 PDF -> Many PDFs)  
 
-### [Generate PDF Thumbnails](https://github.com/olga-terekhova/pdf-utilities/blob/main/Generate_PDF_thumbnails.ipynb)
+### [Generate PDF Thumbnails](https://github.com/olga-terekhova/pdf-utilities/blob/main/notebooks/GenerateThumbnailsPDF.ipynb)
 Generates a new PDF with a grid of thumbnails for each page of the input PDF.  
-(1 PDF -> 1 PDF)
+(1 PDF -> 1 PDF)  
 
-### [Pdf to Spreads](https://github.com/olga-terekhova/pdf-utilities/blob/main/Pdf_to_Spreads.ipynb)  
-Converts a PDF file with one page per spread (optimized for printing) into a PDF file with two pages per spread (optimized for reading on a widescreen). 
+### [Pdf to Spreads](https://github.com/olga-terekhova/pdf-utilities/blob/main/notebooks/PdfToSpreads.ipynb)  
+Converts a PDF file with one page per spread (optimized for printing) into a PDF file with two pages per spread (optimized for reading on a widescreen).  
 
 ## How to use
 
-Open in Google Colab, create a copy, and follow instructions in the notebook. 
+Open in Google Colab, create a copy, and follow instructions in the notebook.  
