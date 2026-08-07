@@ -50,6 +50,9 @@ Generates a new PDF with a grid of thumbnails for each page of the input PDF.
 ### [Pdf to Spreads](https://github.com/olga-terekhova/pdf-utilities/blob/main/notebooks/PdfToSpreads.ipynb)  
 Converts a PDF file with one page per spread (optimized for printing) into a PDF file with two pages per spread (optimized for reading on a widescreen).  
 
+### [Convert JPEG files to PDF](https://github.com/olga-terekhova/pdf-utilities/blob/main/notebooks/ConvertJPEGtoPDF.ipynb)
+Converts a collection of JPEG files into a PDF, allowing to customize target page size and optimize file size.  
+
 ## How to use
 
 Open in Google Colab, create a copy, and follow instructions in the notebook.  
